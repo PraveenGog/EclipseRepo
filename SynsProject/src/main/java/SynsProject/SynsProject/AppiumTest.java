@@ -9,6 +9,7 @@ public class AppiumTest {
 		
 		System.out.println("Mobile Automation");
 		System.out.println("Mobile Automation");
+	
 		
 	}
 	@Test

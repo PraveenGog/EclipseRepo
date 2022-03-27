@@ -9,6 +9,8 @@ public class SearchPageTest {
 		
 		System.out.println("SearchPage1");
 		System.out.println("SearchPage2");
+		
+		
 	}
 
 }
