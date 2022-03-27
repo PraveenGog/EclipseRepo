@@ -8,8 +8,8 @@ public class AppiumTest {
 	public void MobileAutomation() {
 		
 		System.out.println("Mobile Automation");
-		System.out.println("Mobile Automation");
-		System.out.println("Mobile Automation");
+	
+		
 	}
 	@Test
 	public void MobileAutomation1() {
