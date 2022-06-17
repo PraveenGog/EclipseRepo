@@ -15,7 +15,7 @@ public class AppiumTest {
 	public void MobileAutomation1() {
 		
 		System.out.println("Mobile Automation1");
-		System.out.println("Mobile Automation1");
+		
 	}
 
 }
