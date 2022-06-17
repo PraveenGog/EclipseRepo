@@ -14,7 +14,7 @@ public class AppiumTest {
 	@Test
 	public void MobileAutomation1() {
 		
-		System.out.println("Mobile Automation1");
+		System.out.println("Mobile Automation11");
 		
 	}
 
